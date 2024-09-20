@@ -1,0 +1,14 @@
+links{
+    p{
+        
+        background-color: darkblue;
+    }
+    a{
+        color: yellow;
+    }
+}
+
+#title {
+    color: black;
+    margin: 400px, 50px;
+}
